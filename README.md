@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 {
   "name": "moni",                                # string: name of the crypto from coingecko
   "crypto": true,                                   # bool: always true for crypto
-  "ticker": "1) BTC",                               # string/OPTIONAL: overwrites display name of bot
+  "ticker": "1) MONI",                               # string/OPTIONAL: overwrites display name of bot
   "color": true,                                    # bool/OPTIONAL: requires nickname
   "decorator": "@",                                 # string/OPTIONAL: what to show instead of arrows
   "currency": "moni",                                # string/OPTIONAL: alternative curreny
